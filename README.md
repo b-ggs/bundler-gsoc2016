@@ -1,3 +1,3 @@
-# boggs x bundler x gsoc
+# boggs × bundler × gsoc2016
 
 This is a work in progress.
