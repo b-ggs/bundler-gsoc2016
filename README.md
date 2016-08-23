@@ -1,5 +1,7 @@
 # [WIP] boggs × bundler × gsoc2016
 
+### This is a work in progress. This will be updated with a blog post detailing my experience with bundler, and this will likely be modified to add a brief description of each PR.
+
 This is a summary of the work I've done with [bundler](https://github.com/bundler/bundler) from April to September 2016.
 
 This only enumerates the actual work I've done, but I've written a few blog posts detailing the experience I've had with the organization and its proponents. You can read more about my experience here (COMING SOON!).
